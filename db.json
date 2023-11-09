@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "first": "Cool",
+      "second": "Vozniuk2",
+      "adress": "Borispol",
+      "City": "Kiev42",
+      "sex": "male",
+      "id": 7
+    },
+    {
+      "first": "Juce5",
+      "second": "Bobik4",
+      "adress": "Borispol334",
+      "City": "",
+      "sex": "male",
+      "id": 8
+    },
+    {
+      "first": "Boy",
+      "second": "Cool",
+      "adress": "Miami",
+      "City": "Laike",
+      "sex": "male",
+      "id": 9
+    },
+    {
+      "first": "Eva",
+      "second": "Vozniuk",
+      "adress": "Borispol3",
+      "City": "Bostan",
+      "sex": "female",
+      "id": 12
+    },
+    {
+      "first": "Juce2",
+      "second": "Bobik2",
+      "adress": "Borispol",
+      "City": "Kiev",
+      "sex": "male",
+      "id": 13
+    },
+    {
+      "first": "Popik",
+      "second": "Freeman",
+      "adress": "Borispol3",
+      "City": "Kiev",
+      "sex": "male",
+      "id": 14
+    },
+    {
+      "first": "Juce2",
+      "second": "Vozniuk",
+      "adress": "sfsdf",
+      "City": "Cage",
+      "sex": "male",
+      "id": 15
+    },
+    {
+      "first": "Juce45",
+      "second": "Bobik234",
+      "adress": "sfsdf",
+      "City": "Cage",
+      "sex": "female",
+      "id": 17
+    }
+  ]
+}

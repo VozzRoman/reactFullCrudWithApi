@@ -47,22 +47,6 @@
       "City": "Kiev",
       "sex": "male",
       "id": 14
-    },
-    {
-      "first": "Juce2",
-      "second": "Vozniuk",
-      "adress": "sfsdf",
-      "City": "Cage",
-      "sex": "male",
-      "id": 15
-    },
-    {
-      "first": "Juce45",
-      "second": "Bobik234",
-      "adress": "sfsdf",
-      "City": "Cage",
-      "sex": "female",
-      "id": 17
     }
   ]
 }

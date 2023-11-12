@@ -1,5 +1,6 @@
 import axios from "axios";
-
+//JSON SERVER
+//npm run server
 axios.defaults.baseURL = 'http://localhost:3004/posts';
 
 
